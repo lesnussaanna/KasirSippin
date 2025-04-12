@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-image: url(../../image/sippin.png);
+}
+.bg-purple {
+  background-color: #79738E !important;
+}
+
+a.bg-purle:hover, a.bg-purple:focus,
+button.bg-purple:hover,
+button.bg-purple:focus {
+  background-color: #1d2124 !important;
+}
+.rounded-image{
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+}
+.kotak4{
+  width: 950px;
+}
